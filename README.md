@@ -1,4 +1,4 @@
-# iFood (React)
+# Pizzashop (React)
 
 Dashboard para gestão do estabelecimento e controle de pedidos estilo iFood.
 
